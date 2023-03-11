@@ -1,0 +1,15 @@
+body { 
+  max-width: 50em;
+  margin: 0 auto;
+  padding: 1em;
+  font: 16px sans-serif;
+}
+img {
+float: left;
+max-width: 40%;
+margin: 0px 15px 5px 10px;
+}
+
+.underline {
+	text-decoration: underline;
+}
